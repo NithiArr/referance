@@ -1,0 +1,15 @@
+INFO:root:Loading data
+INFO:root:Creating enrollee info table
+INFO:root:Creating age/sex variables
+INFO:root:Assigning CCs from diagnoses and age/sex criteria
+INFO:root:Applying CC hierarchies
+INFO:root:Creating RXC variables
+INFO:root:Creating adult model variables
+INFO:root:Creating child model variables
+INFO:root:Creating infant model variables
+INFO:root:Creating adult score table
+INFO:root:Creating child score table
+INFO:root:Creating infant score table
+INFO:root:Merging all score tables
+INFO:root:Model scores written to ./software/HHS_HCC/data/output/HHS_HCC_V0825.141.E3_scores.csv
+INFO:root:Complete - exiting program
